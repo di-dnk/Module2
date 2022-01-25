@@ -1,0 +1,16 @@
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.csproj.AssemblyReference.cache
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\CORTEX\Desktop\Диана\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
