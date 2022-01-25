@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8IwvkHqSUQhMt19p2x0enhW2dnLlUkyykcRXmG5eC/98Lm9AHG3EbeZBnD1gpzX0V6apfi+QY7bYFRwQBtEVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CORTEX\\Desktop\\Диана\\Shop\\Shop\\Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CORTEX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
